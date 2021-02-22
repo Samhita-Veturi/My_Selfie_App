@@ -1,0 +1,19 @@
+#start_btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#Logo
+{
+    width: 150px;
+    border-radius: 100px;
+}
+#Text_Area
+{
+    width: 300px;
+}
